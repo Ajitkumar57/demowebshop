@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="demo webshop Test Suite" verbose="4">
+
+	
+
+	<test name="demo webshop sanity Test">
+		<classes>
+			<class name="com.qa.demowebshop.tests.RegistrationPageTest" />
+		</classes>
+	</test>
+</suite>

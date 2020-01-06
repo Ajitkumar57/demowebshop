@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="demo webshop Test Suite" duration-ms="88325" started-at="2020-01-05T17:20:44Z" finished-at="2020-01-05T17:22:12Z">
+    <groups>
+    </groups>
+    <test name="demo webshop sanity Test" duration-ms="88325" started-at="2020-01-05T17:20:44Z" finished-at="2020-01-05T17:22:12Z">
+      <class name="com.qa.demowebshop.tests.RegistrationPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.demowebshop.tests.RegistrationPageTest@19ce1bf]" name="setUp" is-config="true" duration-ms="15549" started-at="2020-01-05T17:20:44Z" finished-at="2020-01-05T17:21:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.qa.demowebshop.tests.RegistrationPageTest@19ce1bf]" name="verifyHomePageTitleTest" duration-ms="184" started-at="2020-01-05T17:21:00Z" finished-at="2020-01-05T17:21:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="verifyisRegisterLinkExistsTest()[pri:2, instance:com.qa.demowebshop.tests.RegistrationPageTest@19ce1bf]" name="verifyisRegisterLinkExistsTest" duration-ms="84" started-at="2020-01-05T17:21:00Z" finished-at="2020-01-05T17:21:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyisRegisterLinkExistsTest -->
+        <test-method status="PASS" signature="verifyRegisterLinkclickTest()[pri:3, instance:com.qa.demowebshop.tests.RegistrationPageTest@19ce1bf]" name="verifyRegisterLinkclickTest" duration-ms="735" started-at="2020-01-05T17:21:00Z" finished-at="2020-01-05T17:21:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterLinkclickTest -->
+        <test-method status="PASS" signature="verifyRegistationPageTitleTest()[pri:4, instance:com.qa.demowebshop.tests.RegistrationPageTest@19ce1bf]" name="verifyRegistationPageTitleTest" duration-ms="34" started-at="2020-01-05T17:21:01Z" finished-at="2020-01-05T17:21:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegistationPageTitleTest -->
+        <test-method status="PASS" signature="createNewRegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:5, instance:com.qa.demowebshop.tests.RegistrationPageTest@19ce1bf]" name="createNewRegisterTest" duration-ms="34516" started-at="2020-01-05T17:21:03Z" data-provider="getRegisterTestData" finished-at="2020-01-05T17:21:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ajit1229]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[patil]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ajitkumarpatsi5l@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[patil@070705]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[patil@070705]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewRegisterTest -->
+        <test-method status="PASS" signature="createNewRegisterTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:5, instance:com.qa.demowebshop.tests.RegistrationPageTest@19ce1bf]" name="createNewRegisterTest" duration-ms="35161" started-at="2020-01-05T17:21:37Z" data-provider="getRegisterTestData" finished-at="2020-01-05T17:22:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ajit1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[patil]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ajitpatild551@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[patil@0707056]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[patil@0707056]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewRegisterTest -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.qa.demowebshop.tests.RegistrationPageTest@19ce1bf]" name="quitBrowser" is-config="true" duration-ms="2" started-at="2020-01-05T17:22:12Z" finished-at="2020-01-05T17:22:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.qa.demowebshop.tests.RegistrationPageTest -->
+    </test> <!-- demo webshop sanity Test -->
+  </suite> <!-- demo webshop Test Suite -->
+</testng-results>

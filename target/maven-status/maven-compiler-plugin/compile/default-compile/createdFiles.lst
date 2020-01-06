@@ -1,0 +1,13 @@
+com\qa\demowebshop\base\BasePage.class
+com\qa\demowebshop\listeners\ExtentReportListener.class
+com\qa\demowebshop\listeners\TestAllureListener.class
+com\qa\demowebshop\pages\FollowusPage.class
+com\qa\demowebshop\pages\SearchPage.class
+com\qa\demowebshop\pages\AddToCartPage.class
+com\qa\demowebshop\util\ElementUtil.class
+com\qa\demowebshop\pages\RegistrationPage.class
+com\qa\demowebshop\pages\CheckoutPage.class
+com\qa\demowebshop\pages\NavigateProductPage.class
+com\qa\demowebshop\pages\LoginPage.class
+com\qa\demowebshop\util\Constants.class
+com\qa\demowebshop\util\ExcelUtil.class
